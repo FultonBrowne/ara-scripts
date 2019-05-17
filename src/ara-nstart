@@ -1,1 +1,11 @@
-
+def main():
+  print("starting ara")
+  print("opening db's")
+  #name db
+  #sites db
+  #info db
+  c = "go"
+  while (c = "go"):
+    insys = input(">>>")
+main()
+  
